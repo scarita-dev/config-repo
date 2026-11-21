@@ -1,0 +1,10 @@
+server:
+  port: 8084
+
+spring:
+  application:
+    name: cliente-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/bd_cliente_dev
+    username: root
+    password:
